@@ -1,0 +1,14 @@
+color16.c:5:9:COLOR16_init	8	static
+color16.c:17:6:color16_write_register	24	static
+color16.c:31:6:color16_read_register	32	static
+color16.c:41:6:color16_write_register_word	24	static
+color16.c:56:6:color16_read_register_word	40	static
+color16.c:71:6:enable_register	8	static
+color16.c:77:6:measure_enable	8	static
+color16.c:83:6:sp_th_configure	8	static
+color16.c:97:6:color16_generic_read	40	static
+color16.c:111:6:color16_set_reg_bank_access	16	static
+color16.c:129:6:color16_set_integration_time_ms	8	static
+color16.c:151:6:color16_set_wait_time_ms	8	static
+color16.c:164:6:color16_default_cfg	8	static
+color16.c:190:6:color16_read_data	48	static
